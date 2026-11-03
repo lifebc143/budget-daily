@@ -24,7 +24,9 @@
 
 只可以用在 Android 手機，不可以用在 iOS（iPhone、iPad 不能安裝）。
 
-到本頁右側 **Releases** 下載最新版 APK（`AmmoliteLife-1.0.1.apk`，約 63MB），下載後直接安裝，不需要 Expo Go，也不用上 Google Play。
+[點這裡直接下載 APK（v1.0.1，約 63MB）](https://github.com/lifebc143/budget-daily/releases/download/v1.0.1/AmmoliteLife-1.0.1.apk)
+
+下載後直接安裝，不需要 Expo Go，也不用上 Google Play。也可以到本頁右側 **Releases** 下載。
 
 ## 功能
 
