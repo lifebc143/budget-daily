@@ -1,8 +1,15 @@
 # 預算日常
 
 **本 App 由斑彩市集 Ammolite.Life 工作團隊製作。**
+電子商務網站 資料庫整理 網站更新 手機APK 行銷遊戲 製作 
+請電 Canada 825 809 5339 Taiwan 0965 611 391 
+Line ID lifeab / WeChat AlbertaLife 
+Email ammolitelife@gmail.com 
 
-**歡迎光臨市集網：https://ammolite.life** —— 舊物找新主人，面交最安心。預算日常是斑彩市集工作團隊為大家做的免費記帳工具。
+歡迎光臨斑彩市集網：https://ammolite.life** —— 舊物找新主人，
+面交最安心。
+
+預算日常是斑彩市集工作團隊為大家做的免費記帳工具。
 
 預算日常是一款簡單好用的本機記帳 App，幫你把每天的收入和支出記下來，掌握生活花費與消費節奏。
 
