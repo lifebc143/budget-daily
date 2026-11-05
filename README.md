@@ -61,7 +61,7 @@ Email ammolitelife@gmail.com
 
 ## 關於斑彩市集
 
-斑彩市集（Ammolite.Life）是由 Ammolite.Life 工作團隊經營的二手市集，歡迎光臨市集網：https://ammolite.life
+斑彩市集（Ammolite.Life）是由 Ammolite.Life 工作團隊經營的市集，歡迎光臨市集網：https://ammolite.life 也可以在網站contact us 留言。 感謝您。
 
 ## 版本
 
